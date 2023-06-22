@@ -13,5 +13,5 @@ npm i
 
 2.To start the files run the command:
 ```
-node filename.js
+node task1.js
 ```
